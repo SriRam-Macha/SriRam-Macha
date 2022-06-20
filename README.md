@@ -1,8 +1,12 @@
 # 💫About Me :
 🔭 I’m currently working on Nomad Rides.
+
 🌱 I’m currently learning more about BlockChain.
+
 💬 Ask me about Flutter or any tech-related stuff.
+
 📫 How to reach me: Discord - SriRam-Macha#7952
+
 😄 Pronouns: He/His.
 
 ## 🌐Socials
