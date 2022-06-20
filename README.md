@@ -1,9 +1,9 @@
 # 💫About Me :
--🔭 I’m currently working on Nomad Rides.
--🌱 I’m currently learning more about BlockChain.
--💬 Ask me about Flutter or any tech-related stuff.
--📫 How to reach me: Discord - SriRam-Macha#7952
--😄 Pronouns: He/His.
+- 🔭 I’m currently working on Nomad Rides.
+- 🌱 I’m currently learning more about BlockChain.
+- 💬 Ask me about Flutter or any tech-related stuff.
+- 📫 How to reach me: Discord - SriRam-Macha#7952
+- 😄 Pronouns: He/His.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/SriRam-Macha#7952) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sriram-macha/) 
