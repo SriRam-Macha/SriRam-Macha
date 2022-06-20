@@ -24,3 +24,9 @@
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
