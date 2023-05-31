@@ -1,6 +1,6 @@
 # 💫About Me :
 - 🔭 I’m currently working on Nomad Rides.
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about Serverpod.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Discord - SriRam-Macha#7952
 
@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=SriRam-Macha&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SriRam-Macha&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SriRam-Macha&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
